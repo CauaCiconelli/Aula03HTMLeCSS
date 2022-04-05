@@ -49,6 +49,8 @@ Começo do cabeçalho */
     height: 650px;
     color: white;
     display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .banner .container p span{
     font-weight: 1000;
